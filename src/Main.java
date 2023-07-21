@@ -48,7 +48,8 @@ public class Main {
                 case "4" : {
                     System.out.println(Arrays.toString(universities));
                 }break;
-                case "x" : {
+                case "0" : {
+                    break;
 
                 }default:
                     System.out.println("Write please a right number!!!");
